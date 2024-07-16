@@ -20,7 +20,7 @@ Live Site URL: [PIANTE](https://piante-web-1.netlify.app)
 
 ## Screenshot
 
-![./public/screens/Snímka obrazovky 2024-07-16 o 16.54.44.png](./public/screens/Snímka obrazovky 2024-07-16 o 16.54.44.png)
+
 
 ## My process
 
