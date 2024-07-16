@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Bevan:ital@0;1&family=Kaisei+HarunoUmi&display=swap");
+
+section {
+  @apply px-32;
+}
+
+h3 {
+  -webkit-text-stroke: 1px #99b080;
+}
+h4 {
+  -webkit-text-stroke: 0.5px #fafafa;
+}
+body {
+  width: 100vw;
+  overflow-x: hidden;
+  background-color: #fafafa;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.vertical-text {
+  writing-mode: vertical-rl;
+  text-orientation: sideways;
+}
+/* section {
+  padding: 0 !important;
+} */
+@media (min-width: 200px) {
+  section {
+    @apply px-8;
+  }
+}
+
+@media (min-width: 1024px) {
+  section {
+    @apply px-32;
+  }
+}
