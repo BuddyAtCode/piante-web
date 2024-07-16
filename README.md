@@ -18,6 +18,10 @@ To be specific, I am not satisfied with responsiveness, which a was challenge to
 
 Live Site URL: [PIANTE](https://piante-web-1.netlify.app)
 
+## Screenshot
+
+![./public/screens/blackfish.png](./public/screens/blackfish.png)
+
 ## My process
 
 - I designed my own design in Figma
