@@ -20,7 +20,7 @@ Live Site URL: [PIANTE](https://piante-web-1.netlify.app)
 
 ## Screenshot
 
-![./public/screens/blackfish.png](./public/screens/blackfish.png)
+![./public/screens/piante-screen.png](./public/screens/piante-screen.png)
 
 ## My process
 
