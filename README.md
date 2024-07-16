@@ -15,7 +15,7 @@ This website was designed and developed by me!
 To be honest, I am not 100% satisfied with the result. I think I have started with the wrong approach considering the complexity of animations.
 To be specific, I am not satisfied with responsiveness, which a was challenge to maintain because of the complexity of animations and the wrong approach to those animations from the very beginning.
 
-Live Site URL: [Add live site URL here](https://piante-web-1.netlify.app)
+Live Site URL: [PIANTE](https://piante-web-1.netlify.app)
 
 ## My process
 
