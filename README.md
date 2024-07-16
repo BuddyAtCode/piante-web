@@ -27,7 +27,7 @@ Live Site URL: [PIANTE](https://piante-web-1.netlify.app)
 - I designed my own design in Figma
 - Started by creating a basic layout.
 - Added animations with Framer Motion to create smooth and interactive user experiences.
-- Tried to make the responsiveness as good as could.
+- Tried to make the responsiveness as good as I could.
 
 ### Built with
 
