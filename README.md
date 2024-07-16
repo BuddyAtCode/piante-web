@@ -1,31 +1,40 @@
-# React + TypeScript + Vite
+# EnergyCode - Black-fish
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of contents
 
-Currently, two official plugins are available:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
 
-## Expanding the ESLint configuration
+This website was designed and developed by me!
+To be honest, I am not 100% satisfied with the result. I think I have started with the wrong approach considering the complexity of animations.
+To be specific, I am not satisfied with responsiveness, which a was challenge to maintain because of the complexity of animations and the wrong approach to those animations from the very beginning.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Live Site URL: [Add live site URL here](https://piante-web-1.netlify.app)
 
-- Configure the top-level `parserOptions` property like this:
+## My process
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- I designed my own design in Figma
+- Started by creating a basic layout.
+- Added animations with Framer Motion to create smooth and interactive user experiences.
+- Tried to make the responsiveness as good as could.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-# piante-web
+### Built with
+
+- React.js
+- Tailwind
+- Vite
+- Framer motion
+- [React](https://reactjs.org/) - JS library
+
+### What I learned
+
+- Smooth scrolling techniques.
+- How not to approach responsive design.
+- Framer Motion: Applied Framer Motion for advanced animations and transitions, improving the interactivity and smoothness of the UI.
+- Scroll-triggered animations.
