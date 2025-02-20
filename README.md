@@ -1,4 +1,4 @@
-# EnergyCode - Black-fish
+# EnergyCode - PIANTE
 
 ## Table of contents
 
